@@ -1,4 +1,4 @@
-# Taller de Estructuras de Datos Lineales
+# Taller de Estructura de Datos Lineales
 
 **Estudiante:** Juan Andres Checa Sol
 
